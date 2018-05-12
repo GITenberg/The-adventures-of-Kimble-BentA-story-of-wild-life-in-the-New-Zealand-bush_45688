@@ -1,0 +1,27 @@
+_repo: The-adventures-of-Kimble-BentA-story-of-wild-life-in-the-New-Zealand-bush_45688
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45688-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cowan, James
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '42926'
+    url: http://www.gutenberg.org/2009/agents/42926
+description: ''
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'New Zealand -- Description and travel'
+- !lcsh 'Bent, Kimble, 1837-1916'
+title: 'The adventures of Kimble Bent: A story of wild life in the New Zealand bush'
+url: http://www.gutenberg.org/ebooks/45688
