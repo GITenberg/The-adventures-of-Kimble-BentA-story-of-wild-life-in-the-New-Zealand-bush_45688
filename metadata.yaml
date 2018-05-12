@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42926'
     url: http://www.gutenberg.org/2009/agents/42926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45688#The-adventures-of-Kimble-BentA-story-of-wild-life-in-the-New-Zealand-bush
 gutenberg_issued: '2014-05-18'
 gutenberg_type: Text
 identifiers:
